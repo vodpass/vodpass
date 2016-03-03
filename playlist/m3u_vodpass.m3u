@@ -37,7 +37,10 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.
 
  #EXTINF:-1,The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
- 
+
+#EXTINF: -1, TVJ (Jamaica)
+http://univ-i.akamaihd.net/hls/live/222629/HLS11/chunklist.m3u8
+
 NASA Media Channel
 http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8
 #EXTINF:-1, NASA TV HD
@@ -61,6 +64,5 @@ http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 #EXTINF: -1,[COLOR green]SKY POKER[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
-#EXTINF: -1, TVJ (Jamaica)
-http://univ-i.akamaihd.net/hls/live/222629/HLS11/chunklist.m3u8
+
 
