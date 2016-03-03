@@ -87,4 +87,5 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 #EXTINF: -1,[COLOR yellow]IPTV Movies[/COLOR]
 
-
+#EXTINF:-1,tvi reality test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/504.m3u8
