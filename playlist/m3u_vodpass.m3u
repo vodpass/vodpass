@@ -33,8 +33,11 @@ http://sv.dl-pars.in/Ali/The.Wolfpack.2015.720p.WEB-DL.Ganool%28parsfilm%29.mkv
 
  #EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl", truTV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
-#EXTINF:-1 
 
+
+#EXTINF:-1,Tip TV
+ http://130.0.31.158:4022/udp/239.1.1.14:1234
+ 
 #EXTINF:0,MAD TV
 rtmp://144.76.2.213:1935/live/livestream
 
