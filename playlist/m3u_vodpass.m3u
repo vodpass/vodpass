@@ -1,9 +1,10 @@
 #EXTINF: -1,[COLOR white] WECOME to VODPASS [/COLOR]
 
-#EXTINF: -1,[COLOR blue]  MOVIES: 2016 [/COLOR]
+#EXTINF: -1,[COLOR blue]  MOVIES: 2015 [/COLOR]
 
-#EXTINF: -1 xman 2016 test
-https://docs.google.com/file/d/0BzLFWAj2yeSuY3hLdGc5YWo4SGs/preview
+#EXTINF: -1 A perfect day 2015
+http://dl5.nightsdl.com/Masih/Film/2015/A.Perfect.Day.2015.DVDrip.nItRo-[Nightsdl.Com].mkv
+
 #EXTINF: -1,[COLOR green]  Tv Shows: Popular [/COLOR]
 
 #EXTINF: -1,Knight Rider s01e01
@@ -26,9 +27,9 @@ http://sv.dl-pars.in/Ali/The.Wolfpack.2015.720p.WEB-DL.Ganool%28parsfilm%29.mkv
 
 #EXTINF: -1,[COLOR yellow]  IPTV:Channels [/COLOR]
 
-#EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl", truTV
-http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
 
+ #EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl", truTV
+http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
 #EXTINF:-1 
 
  #EXTINF:-1,The zombie channel
