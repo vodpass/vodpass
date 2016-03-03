@@ -65,4 +65,5 @@ http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 
-
+#EXTINF:-1,UK : Sky Movies Select* 
+http://62.210.162.88:80/live/uk118/133402032016/2099.ts
