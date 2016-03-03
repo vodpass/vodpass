@@ -59,3 +59,28 @@ http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 
 #EXTINF: -1,[COLOR green]SKY POKER[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+#EXTINF: -1,[COLOR yellow]IPTV Movies[/COLOR]
+#EXTINF:-1,UK : Discovery*
+http://62.210.162.88:80/live/uk118/133402032016/2105.ts
+
+#EXTINF:-1,UK : Sky Movies Action* 
+http://62.210.162.88:80/live/uk118/133402032016/2103.ts
+
+#EXTINF:-1,UK : Sky Movies Comedy* 
+http://62.210.162.88:80/live/uk118/133402032016/2102.ts
+
+#EXTINF:-1,UK : Sky Movies Family* 
+http://62.210.162.88:80/live/uk118/133402032016/2101.ts
+
+#EXTINF:-1,UK : Sky Movies Modern Greats* 
+http://62.210.162.88:80/live/uk118/133402032016/2097.ts
+
+#EXTINF:-1,UK : Sky Movies Premiere* 
+http://62.210.162.88:80/live/uk118/133402032016/2100.ts
+
+#EXTINF:-1,UK : Sky Movies Select* 
+http://62.210.162.88:80/live/uk118/133402032016/2099.ts
+
+#EXTINF:-1,UK : Sky Movies Showcase* 
+http://62.210.162.88:80/live/uk118/133402032016/2098.ts
