@@ -1,12 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="vodpass",
 
 #EXTINF: -1,[COLOR white] WECOME to VODPASS [/COLOR]
 
 #EXTINF: -1,[COLOR blue]  MOVIES: 2015 [/COLOR]
 
-#EXTINF: -1 A perfect day 2015
-http://dl5.nightsdl.com/Masih/Film/2015/A.Perfect.Day.2015.DVDrip.nItRo-[Nightsdl.Com].mkv
+#EXTINF: -1 Age of kill 2015
+http://sv.dl-pars.in/Ali/Age.of.Kill.2015.1080p.5.1CH.Ganool%28parsfilm%29.mkv
 
 #EXTINF: -1,[COLOR green]  Tv Shows: Popular [/COLOR]
 
@@ -37,10 +36,7 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.
 
  #EXTINF:-1,The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
-
-#EXTINF: -1, TVJ (Jamaica)
-http://univ-i.akamaihd.net/hls/live/222629/HLS11/chunklist.m3u8
-
+ 
 NASA Media Channel
 http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8
 #EXTINF:-1, NASA TV HD
@@ -63,7 +59,3 @@ http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 
 #EXTINF: -1,[COLOR green]SKY POKER[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-
-
-#EXTINF:-1,UK : Sky Movies Select* 
-http://62.210.162.88:80/live/uk118/133402032016/2099.ts
