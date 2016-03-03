@@ -65,11 +65,4 @@ http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 
-#EXTINF: -1,goodgame
-http://hls.goodgame.ru/hls/62862.m3u8
-#EXTINF:-1,+lig
-https://video07-lax.streamup.com/app/lacasahds-stream_aac/playlist.m3u8
-#EXTINF:-1,+lig
-http://hls.goodgame.ru/hls/63482.m3u8
-#EXTINF:-1,+lig
-https://video07-lax.streamup.com/app/milotvhd1fps-stream_aac/playlist.m3u8
+
