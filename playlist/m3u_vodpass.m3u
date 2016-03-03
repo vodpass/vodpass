@@ -87,10 +87,4 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 #EXTINF: -1,[COLOR yellow]IPTV Movies[/COLOR]
 
-#EXTINF: -1,Super Tennis HD 
-acestream://111d650225e7b7fb8f0f1e968c6aa7f8b86684bd
 
-
-
-#EXTINF: -1,[COLOR yellow] Disney_Junior [/COLOR]
-http://iptv-supplier.com:8000/live/halim1/halim1/2324.ts
