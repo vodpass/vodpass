@@ -35,6 +35,9 @@ http://sv.dl-pars.in/Ali/The.Wolfpack.2015.720p.WEB-DL.Ganool%28parsfilm%29.mkv
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
 #EXTINF:-1 
 
+#EXTINF:0,MAD TV
+rtmp://144.76.2.213:1935/live/livestream
+
  #EXTINF:-1,The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
  
