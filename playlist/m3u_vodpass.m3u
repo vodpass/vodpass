@@ -79,4 +79,11 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 #EXTINF: -1,[COLOR yellow]IPTV Movies[/COLOR]
 
-
+#EXTINF:0,Channel1
+http://nlds140.cdnak.neulion.com/nlds/nba/gsw/as/live/gsw_hd_ipad.m3u8
+ 
+#EXTINF:0,Channel2
+http://ftve2200-i.akamaihd.net/hls/live/217065/room208/4028k/prog.m3u8
+ 
+#EXTINF:0,Channel3
+http://ftve2100-i.akamaihd.net/hls/live/217060/room204/4028k/prog.m3u8
