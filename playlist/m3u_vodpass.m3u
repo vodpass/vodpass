@@ -82,7 +82,20 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 #EXTINF:-1,[COLOR yellow]IPTV Movies[/COLOR]
 
-
+#EXTINF:0, Movies/Filma (24/7)
+http://veetle.com/index.php/hls/streamMbrfast/563dc1d3a3790_/stream.m3u8
+ 
+#EXTINF:0, All Kinds of Movies (24/7)
+http://veetle.com/index.php/hls/streamMbrfast/563dd79bc45b2_/stream.m3u8
+ 
+#EXTINF:0, Action Movies (24/7)
+http://veetle.com/index.php/hls/streamMbrfast/565329fe01041_/stream.m3u8
+ 
+#EXTINF:0, Family Movies (24/7)
+http://veetle.com/index.php/hls/streamMbrFast/4d6934c2476b3_/stream.m3u8
+ 
+#EXTINF:0, Classics (24/7)
+http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
 
  
 
