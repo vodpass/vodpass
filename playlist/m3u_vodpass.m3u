@@ -80,8 +80,6 @@ http://ftve2200-i.akamaihd.net/hls/live/217065/room208/4028k/prog.m3u8
 #EXTINF: -1,[COLOR green]Fox Soccer Plus [/COLOR]
 http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 
-#EXTINF:0,NOVASPORTS1
-http://38.140.63.250:1935/gr-live/sport1.sdp/playlist.m3u8
 
 #EXTINF: -1,[COLOR green]SKY POKER[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
