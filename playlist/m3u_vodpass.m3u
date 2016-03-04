@@ -2,7 +2,7 @@
 
 #EXTINF: -1,[COLOR white] WECOME to VODPASS [/COLOR]
 
-#EXTINF: -1, [COLOR orange] Follow us on twitter vodpass[/COLOR]
+#EXTINF: -1, [COLOR orange] Follow us on twitter @vodpass[/COLOR]
 
 #EXTINF: -1,[COLOR blue]  MOVIES: 2016 [/COLOR]
 
@@ -83,12 +83,7 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF: -1,[COLOR yellow]IPTV Movies[/COLOR]
 
 
- #EXTINF:-1,AMC
-http://91.219.133.187:8080/udp/239.1.1.32:1234
-#EXTINF:-1,Film+
-http://91.219.133.187:8080/udp/239.1.1.31:1234
-#EXTINF:-1,Filmbox Extra HD
-http://91.219.133.187:8080/udp/239.1.1.26:1234
+ 
 
  
 
