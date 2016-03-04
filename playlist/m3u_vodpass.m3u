@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF: -1,[COLOR white] WECOME to VODPASS [/COLOR]
-
 #EXTINF: -1, [COLOR orange] Follow us on twitter vodpass[/COLOR]
 
 #EXTINF: -1,[COLOR blue]  MOVIES: 2016 [/COLOR]
@@ -25,12 +24,14 @@ http://sv.dl-pars.in/Ali/Aloha.2015.1080p.5.1CH.Ganool%28ParsFilm%29.mkv
 
 #EXTINF: -1,[COLOR green]  Tv Shows: Popular [/COLOR]
 
-#EXTINF: -1,X-files s10e5
-http://dl5.moviefarsi.com/serial/The%20X%20Files/S10/480p/The.X-Files.S10E05.480p_MovieFarsi.com.mkv
+#EXTINF: -1,The Walking Dead s6e11
+http://dl.tehmovies.com/sr1/serial/walking.dead/s6/The.Walking.Dead.S06E11.720p.Tehmovies.net.mkv
 #EXTINF: -1, Lucifer s1e6
 http://dl4.watchfilm.ir/Foreign.Series/Lucifer/S01/720p/Lucifer.720p.S01.E06.mkv
-#EXTINF: -1, test link
+#EXTINF: -1, Supergirl s1e15
 http://server.7filmia.ir/Data/Serial/Supergirl/Season%201/Supergirl%20S01E15%20480p%20HDTV%20%5bFilmia%5d.mkv
+#EXTINF: -1, Naruto  s5e41  - requested
+http://dl5.moviefarsi.com/serial/Naruto/S05/Naruto.S05E41.480p.mkv
 #EXTINF: -1,[COLOR red]  Movie Requests [/COLOR]
 
 #EXTINF:-1, Pumpkinhead 1988 1080p
@@ -77,7 +78,6 @@ http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
 #EXTINF: -1,[COLOR green]Bt Sport 1 [/COLOR]
 http://iptv-supplier.com:8000/live/Sbon/Sbon/282.m3u8
 
-
 #EXTINF: -1,[COLOR green] Fox Sports [/COLOR]
 http://ftve2200-i.akamaihd.net/hls/live/217065/room208/4028k/prog.m3u8
 
@@ -87,12 +87,9 @@ http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 #EXTINF: -1,[COLOR green]SKY POKER[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
-
-
 #EXTINF: -1,[COLOR yellow]IPTV Movies[/COLOR]
 
-#EXTINF:0, 1HD
-http://80.250.191.10:1935/live/livestream3/playlist.m3u8
+
  
 
  
