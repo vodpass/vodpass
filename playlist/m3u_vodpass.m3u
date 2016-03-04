@@ -83,7 +83,10 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1,[COLOR yellow]IPTV Movies[/COLOR]
 
 
- 
+ #EXTINF:-1 tvg-logo="discovery civilization.png",Discovery Civilization
+http://tvultimate.ddns.net/LIVE/H01/CANAL382/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1 tvg-logo="turbo dis.png",Discovery Turbo
+http://tvultimate.ddns.net/LIVE/H01/CANAL383/PROFILE03.m3u8?tvultimate=%2F.ts
 
  
 
