@@ -60,7 +60,7 @@ Requested - 0 [/COLOR]
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Toonami
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl" group-title="Group 1",    truTV-
+#EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl" group-title="Group 1",    truTV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    WGN (CW)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
@@ -70,10 +70,6 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://goo.gl/9eu0T6
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    NASA Space Station Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl", truTV
-http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR green]SPORTS: IPTV [/COLOR]
