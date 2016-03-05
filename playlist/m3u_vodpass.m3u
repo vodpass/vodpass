@@ -75,9 +75,7 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.
 
 
 
-#EXTINF:0,
 
-#EXTINF:-1,
 
 
 #EXTINF:0,WGN (CW)
@@ -123,7 +121,7 @@ http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
 http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    NOVACINEMA2
 http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
-#EXTINF: -1,[COLOR yellow] The zombie channel [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
  
 
