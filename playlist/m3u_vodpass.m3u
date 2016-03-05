@@ -100,8 +100,8 @@ http://ftve2200-i.akamaihd.net/hls/live/217065/room208/4028k/prog.m3u8
 http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Sky Poker [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Ufc 194 [/COLOR]
-http://dl.tehmovies.com/94/series/ufc/UFC.on.FOX.16.HDTV.Tehmovies.com.mp4
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    UFC 190: Rousey vs. Correia [/COLOR]
+http://dl.tehmovies.com/94/series/ufc/UFC.190.REPACK.WEB-DL.Tehmovies.com.mp4
 
 
 
