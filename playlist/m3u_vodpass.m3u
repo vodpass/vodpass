@@ -54,7 +54,16 @@ http://dl5.nightsdl.com/TV.Show/iZombie/S02/720p/iZombie%20S02E14%20720p-[Nights
 Requested - 0 [/COLOR]
 
 
+#EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR yellow]Streams: IPTV[/COLOR]
 
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Cartoon Network 
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Toonami
+http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://www.apk20.com/image/icon-27869" group-title="Group 1",    truTV
+http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    NOVACINEMA2
+http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
 
 #EXTINF: -1,[COLOR yellow]  IPTV: Channels [/COLOR]
 
@@ -64,13 +73,12 @@ Requested - 0 [/COLOR]
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
 
 
-#EXTINF: -1,[COLOR yellow] The zombie channel [/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
 
-#EXTINF:0,Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1,Toonami
-http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0,
+
+#EXTINF:-1,
+
 
 #EXTINF:0,WGN (CW)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
@@ -115,7 +123,8 @@ http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
 http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    NOVACINEMA2
 http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
-
+#EXTINF: -1,[COLOR yellow] The zombie channel [/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
  
 
 
