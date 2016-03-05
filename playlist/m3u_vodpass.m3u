@@ -106,14 +106,13 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR yellow]Movies: IPTV[/COLOR]
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Family Movies (24/7) (veetle) 
 http://veetle.com/index.php/hls/streamMbrFast/4d6934c2476b3_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Classics (24/7) (veetle)
 http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
-
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    NOVACINEMA1
 http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    NOVACINEMA2
 http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
 
