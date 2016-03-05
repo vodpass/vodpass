@@ -53,10 +53,9 @@ http://server.7filmia.ir/Data/Serial/The%20Flash/S02/The%20Flash%20S02E15%20480p
 http://dl5.nightsdl.com/TV.Show/iZombie/S02/720p/iZombie%20S02E14%20720p-[Nightsdl.com].mkv 
 #EXTINF:-1,X Files s10e6 (requested)
 http://ns358605.ip-91-121-153.eu/Medias/S%C3%A9ries/X-Files/The.X-Files.S10E06.FiNAL.FASTSUB.VOSTFR.720p.HDTV.x264.AAC-GOBO2S.mkv
-#EXTINF: -1,[COLOR red]Movie Requests-0[/COLOR]
-#EXTINF: -1,[color purple]Tv show Requests[/color]
-#EXTINF: -1,Homeland s05
+#EXTINF: -1, Homeland s05
 http://dl5.moviefarsi.com/serial/Homeland/S05/720p/Homeland.S05E01.720p.WEBrip_MovieFarsi_com.mkv
+#EXTINF: -1,[COLOR red]Movie Requests-0[/COLOR]
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR yellow]Streams: IPTV[/COLOR]
 
@@ -109,7 +108,6 @@ http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
  
-
 
 
 
