@@ -1,3 +1,15 @@
+#EXTM3U tvg-shift=3
+#EXTINF:-1 tvg-id="id1" tvg-name="hbo" tvg-logo="logo1" group-title="Group 1",hbo
+http://stream
+#EXTINF:-1 tvg-id="id1" tvg-name="hbo2" tvg-logo="logo1" group-title="Group 1",hbo2
+http://stream link
+
+#EXTM3U tvg-shift=3
+#EXTINF:-1 tvg-id="id2" tvg-name="bbc" tvg-logo="logo1" group-title="Group 2",bbc
+http://stream link
+#EXTINF:-1 tvg-id="id2" tvg-name="nbc" tvg-logo="logo1" group-title="Group 2",nbc
+http://stream link
+
 #EXTM3U
 
 #EXTINF: -1,[COLOR white] WECOME to VODPASS Sports [/COLOR]
