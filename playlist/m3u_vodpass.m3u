@@ -141,6 +141,6 @@ http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
  
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Mystery 
-http://nlds259.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd.m3u8?
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Mystery 1
+http://nlds259.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd.m3u8
 
