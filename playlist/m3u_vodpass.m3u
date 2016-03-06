@@ -142,5 +142,5 @@ http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
  
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Mystery Science Theater 3000 
-http://k6tv2.dyndns.tv:1935/live/_definst_/h111.stream/playlist.m3u8
+URL=rtmp://fmaster.servep2p.com:1935/live?/fdgngo.stream
 
