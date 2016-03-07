@@ -1,8 +1,8 @@
 #EXTM3U tvg-shift=6
 #EXTINF:-1 tvg-logo="logo1"  group-title="Group 1",[COLOR green]Sports: IPTV [/COLOR]
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR green] Sky Sports News HD[/COLOR]
-http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
+#EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR green] Sky GIT News HD[/COLOR]
+https://raw.githubusercontent.com/vodpass/vodpass/master/playlist/m3u_vodpass.m3u
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green] Bein Sport 1[/COLOR]
 http://live01.pushpublish.tv/mylive/bein1/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green] Bt Sport 1 [/COLOR]
