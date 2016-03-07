@@ -1,5 +1,5 @@
 #EXTM3U tvg-shift=6
-#EXTINF:-1 tvg-logo="logo1"  group-title="Group 1",[COLOR green]Sports: IPTV [/COLOR]
+#EXTINF:-1 tvg-logo="logo1"  group-title="SPORTS 1",[COLOR green]Sports: IPTV [/COLOR]
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR green] GIT HD[/COLOR]
 https://github.com/vodpass/vodpass/blob/master/playlist/m3u_vodpass_sports.m3u
