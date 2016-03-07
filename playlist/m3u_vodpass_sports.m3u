@@ -47,3 +47,14 @@ http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 
 #EXTINF: -1,[COLOR green]SKY POKER[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+#EXTINF:-1,SKYSPORT1
+http://149.202.207.8:8080/SkkY1/SkkY1/index.m3u8
+
+#EXTINF:-1,SKYSPORT2
+http://149.202.207.8:8080/SkkY2/SkkY2/index.m3u8
+
+#EXTINF:-1,SKYSPORT3
+http://149.202.207.8:8080/SkkY3/SkkY3/index.m3u8
+#EXTINF:-1,SKYSPORT4
+http://149.202.207.8:8080/SkkY4/SkkY4/index.m3u8 #EXTINF:-1,SKYSPORT5 
