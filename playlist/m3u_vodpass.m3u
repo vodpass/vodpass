@@ -183,7 +183,5 @@ http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    AAA FAMILY
-http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
 
 
