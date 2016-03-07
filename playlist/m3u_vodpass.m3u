@@ -6,6 +6,8 @@
 
 #EXTINF: -1,[COLOR lime]FEATURED MOVIES: For kids only[/COLOR]
 
+#EXTINF:-1,Tomorrowland 1080p
+http://dl.tehmovies.com/94/7/Tomorrowland.2015.1080p.Tehmovies.ir.mp4
 
 #EXTINF:-1,Hotel transylvania 2
 http://www.film4eg.net/momn/Hotel%20Transylvania%202%202015-1.mp4
@@ -127,9 +129,9 @@ http://dl5.nightsdl.com/TV.Show/H/Homeland/S05/Homeland%20S05E12%20720p-%5BNight
 
 #EXTINF:-1,[COLOR red]Movie Requests-0[/COLOR]
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Group movie",[COLOR yellow]Streams: IPTV[/COLOR]
+#EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR yellow]Streams: IPTV[/COLOR]
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group movie",    Cartoon Network 
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Cartoon Network 
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    GLOBAL CA
 https://goo.gl/Hhdzjz
@@ -149,7 +151,7 @@ http://goo.gl/9eu0T6
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Group movie",[COLOR yellow]Sports: IPTV [/COLOR]
+#EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR yellow]Sports: IPTV [/COLOR]
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Sky Sports News HD [/COLOR]
 http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
@@ -169,7 +171,7 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Group movie",[COLOR yellow]Movies: IPTV[/COLOR]
+#EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR yellow]Movies: IPTV[/COLOR]
 
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    Mystery Science Theater 3000
