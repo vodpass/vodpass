@@ -170,4 +170,12 @@ http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",    The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
 
-
+#EXTINF: 0, Eurosport HD
+http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r964991sd2500000/c3d7d9ac9a8eade4c469c8f261cea5368c118be3/playlist.m3u8
+#EXTINF: 0, Eurosport 2 HD
+http://origin2.samara.ertelecom.ru/content/private/s147213/d3720264/r965000sd2500000/5ad5b441d56f018a0cab1989c056aa782ade8285/playlist.m3u8
+#EXTINF: 0, FOX HD
+http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r964910sd2500000/440f444c17c5faaf04a8f4a9e48bc068c7826009/playlist.m3u8
+#EXTINF: 0, FOX Life HD
+http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r964919sd2500000/82f9da2544bbd215e38a498dd667e4d70b0a4ce8/playlist.m3u8
+#
