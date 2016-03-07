@@ -151,21 +151,21 @@ http://goo.gl/9eu0T6
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR yellow]Sports: IPTV [/COLOR]
+#EXTINF:-1 tvg-logo="logo1" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV [/COLOR]
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Sky Sports News HD [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Sky Sports News HD [/COLOR]
 http://cp.dmbshare.net:8000/live/burgess/burgess/2761.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Bein Sport 1 [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Bein Sport 1 [/COLOR]
 http://live01.pushpublish.tv/mylive/bein1/playlist.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Btsprt1 [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Btsprt1 [/COLOR]
 http://149.202.207.8:8080/Btsprt1/Btsprt1/index.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Fox Sports [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Fox Sports [/COLOR]
 http://ftve2200-i.akamaihd.net/hls/live/217065/room208/4028k/prog.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Fox Soccer Plus [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Fox Soccer Plus [/COLOR]
 http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Golf Channel [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Golf Channel [/COLOR]
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Sky Poker [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Sky Poker [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 
