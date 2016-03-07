@@ -140,6 +140,8 @@ http://149.202.207.8:8080/Btsprt1/Btsprt1/index.m3u8
 http://ftve2200-i.akamaihd.net/hls/live/217065/room208/4028k/prog.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Fox Soccer Plus [/COLOR]
 http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Golf Channel [/COLOR]
+http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Group 1",[COLOR green]    Sky Poker [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
