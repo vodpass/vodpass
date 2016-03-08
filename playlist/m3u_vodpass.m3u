@@ -80,6 +80,9 @@ http://tigzy.com/misc/jillian/Cardio%202%20for%20Phase%202.avi
 
 #EXTINF:-1,[COLOR green]Please report bad links to us, Team Vodpass[/COLOR]
 
+#EXTINF:-1 tvg-logo="logo1" group-title="Streams: Latest Tv Episodes",[COLOR blue] Latest Tv Episodes[/COLOR]
+#EXTINF: -1,[COLOR green] LATEST TV EPISODES [/COLOR]
+
 #EXTINF:-1,Knight rider s1e1 2008
 http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E01%20%28ParsFilm%29.mkv
 
@@ -91,6 +94,12 @@ http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E03%20%28ParsFilm%
 
 #EXTINF:-1,knight rider s1e4
 http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E04%20%28ParsFilm%29.mkv
+
+#EXTINF:-1,knight rider s1e5
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E05%20%28ParsFilm%29.mkv
+
+#EXTINF:-1,knight rider s1e6
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E06%20%28ParsFilm%29.mkv
 
 #EXTINF:-1,American crime story s1e5
 http://dl2.film2movie.info/serial/American%20Crime%20Story/S01/American.Crime.Story.S01E05.720p.x265.HEVC.Film2Movie_INFO.mkv
@@ -109,8 +118,10 @@ http://server.7filmia.ir/Data/Serial/The%20Flash/S02/The%20Flash%20S02E15%20480p
 
 #EXTINF:-1,izombie s2e14
 http://dl5.nightsdl.com/TV.Show/iZombie/S02/720p/iZombie%20S02E14%20720p-[Nightsdl.com].mkv 
+
 #EXTINF:-1,X Files s10e6 (requested)
 http://ns358605.ip-91-121-153.eu/Medias/S%C3%A9ries/X-Files/The.X-Files.S10E06.FiNAL.FASTSUB.VOSTFR.720p.HDTV.x264.AAC-GOBO2S.mkv
+
 #EXTINF: -1,Homeland s5e1 (requested)
 http://dl.tehmovies.com/94/series/homeland/s5/Homeland.S05E01.720p.WEB-DL.Tehmovies.ir.mkv
 #EXTINF: -1,homeland s5e2 (requested)
