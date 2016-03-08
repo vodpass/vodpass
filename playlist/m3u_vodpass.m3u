@@ -2,48 +2,33 @@
 
 #EXTINF: -1,[COLOR white] WECOME to VODPASS [/COLOR]
 
-#EXTINF: -1,[COLOR orange]Follow us on twitter @vodpass[/COLOR]
-EXTINF:-1 tvg-logo="logo1" group-title="Streams: Kids Movies",[COLOR Lime] streams:Kids Movies[/COLOR]
+#EXTINF: -1,[COLOR orange]Follow us on twitter vodpass[/COLOR]
 
+#EXTINF:-1 tvg-logo="logo1" group-title="Streams: Kids Movies",[COLOR yellow]Streams: Kids Movies[/COLOR]
 
-#EXTINF: -1,[COLOR lime]FEATURED MOVIES: For kids only[/COLOR]
-
-#EXTINF:-1,Tomorrowland 1080p
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",Tomorrowland 1080p
 http://dl.tehmovies.com/94/7/Tomorrowland.2015.1080p.Tehmovies.ir.mp4
-
-#EXTINF:-1,Hotel transylvania 2
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",Hotel Transylvania 2
 http://www.film4eg.net/momn/Hotel%20Transylvania%202%202015-1.mp4
-
-#EXTINF:-1,Finding Nemo
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",Finding Nemo
 http://178.162.214.232/vod/movies/english/FindingNemo.mp4
-
-#EXTINF:-1,Guardians of the galaxy 2014
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",Guardians of the galaxy 2014
 http://dl.tehmovies.com/sr1/aban/Guardians.Of.The.Galaxy.2014.720p.BluRay.TehMovieS.Com.mkv
-
-#EXTINF:-1,Beauty and the beast 2014
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",Beauty and the beast 2014
 http://dl.tehmovies.com/sr1/aban/Beauty.And.The.Beast.2014.720p.BR%20TehMovieS.Com.mkv
-
-#EXTINF:-1,Dolphin tale 2
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",Dolphin Tale 2
 http://dl.tehmovies.com/sr1/aban/Dolphin.Tale.2.2014.720p.BluRay%20TehMovieS.Com.mkv
-
-#EXTINF:-1,Juassic World 2015 (3d)
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",Juassic World 2015 (3d)
 http://dl.tehmovies.com/94/7/Jurassic.World.2015.3D.1080p.BluRay.x264.Tehmovies.ir.mkv
-
-#EXTINF: -1,The good dinosaur
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",The Good Dinosaur
 http://dl2.parsfilm.org/bia2/Movies/Archive/2015/Dey94/The.Good.Dinosaur.2015.HDRip.%28Bia2Movies%29.mkv
-
-#EXTINF: -1,The incredibles
-edibles
-http://217.219.143.108/1327/The%20Incredibles%20%282004%29/The-Incredibles.mkv
-
-#EXTINF: -1,Ice age 4
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",Ice age 4
 http://217.219.143.108/1327/Ice%20Age%204%20%282012%29/Ice%20Age%204%20Continental%20Drift.mkv
-
-#EXTINF: -1,Chipmunks roadtrip
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",Chipmunks Roadtrip
 http://www.film4eg.net/momn/Alvin%20And%20The%20Chipmunks%20The%20Road%20Chip%202015-1.mp4
-
-#EXTINF: -1,All creatures big and small
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: Kids Movies",All creatures big and small
 http://sv.dl-pars.in/Ali/All.Creatures.Big.and.Small.2015.720p.Ganool%28parsfilm%29.mkv
+
 
 #EXTINF: -1,[COLOR blue] LATEST MOVIES: 2016 [/COLOR]
 
