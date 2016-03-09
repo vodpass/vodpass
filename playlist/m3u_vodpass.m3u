@@ -9,6 +9,9 @@
 
 #EXTINF: -1,[COLOR lime]FEATURED MOVIES: For kids only[/COLOR]
 
+#EXTINF:-1,Frozen fever
+http://usersmovies.doesntexist.com/kids/Frozen%20Fever%20(2015).avi 
+
 #EXTINF:-1,Tomorrowland 1080p
 http://dl.tehmovies.com/94/7/Tomorrowland.2015.1080p.Tehmovies.ir.mp4
 
@@ -195,6 +198,5 @@ http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
 http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
-
 
 
