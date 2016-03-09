@@ -162,6 +162,12 @@ http://dl5.nightsdl.com/TV.Show/H/Homeland/S05/Homeland%20S05E12%20720p-%5BNight
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Streams: IPTV",[COLOR yellow]Streams: IPTV[/COLOR]
 
+#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Comedy Central 
+http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/30.ts
+#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Dave 
+http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/32.ts
+#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    DMAX
+http://31.220.40.87:8000/live/reissueline12mth/Bbh8wYf1ho/47.ts
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    ADULT SWIM 
 http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Cartoon Network 
