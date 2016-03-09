@@ -196,8 +196,6 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    NOVACINEMA1
 http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    NOVACINEMA2
-http://38.140.63.250:1935/gr-live/net.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
 
