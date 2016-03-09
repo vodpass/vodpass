@@ -219,10 +219,13 @@ http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m
 
 
 
-#EXTINF:-1 tvg-logo="logo1" group-title="PREMIUM ESPANOL: IPTV",[COLOR orange] Premium Espanol: IPTV[/COLOR]
+#EXTINF:-1 tvg-logo="logo1" group-title="Latino: IPTV",[COLOR orange] Latino: IPTV[/COLOR]
 
-#EXTINF:-1,[COLOR orange] Travel Channel [/COLOR](espanol)
+#EXTINF:-1,[COLOR orange] Latino: Travel Channel [/COLOR]
 http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 
-#EXTINF:-1,[COLOR orange] BeIN Sport [/COLOR](espanol)
+#EXTINF:-1,[COLOR orange] Latino: BeIN Sport [/COLOR]
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+
+8.#EXTINF:-1,[COLOR orange] Latino: FOX [/COLOR] By Compus1286
+9.http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
