@@ -204,10 +204,7 @@ http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
 
-#EXTINF:-1,UK : Sky Movies Action*
-http://62.210.162.88:80/live/uk124/112408032016/2103.ts
-#EXTINF:-1,UK : Sky Movies Comedy*
-http://62.210.162.88:80/live/uk124/112408032016/2102.ts
+
 
 #EXTINF:-1 tvg-logo="logo1" group-title="PREMIUM ESPANOL: IPTV",[COLOR orange] PREMIUM ESPANOL: IPTV[/COLOR]
 
