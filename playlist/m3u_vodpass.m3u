@@ -157,6 +157,8 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/p
 https://goo.gl/Hhdzjz
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Global Halifax
 https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    RT TV network
+http://rt-a.akamaihd.net/ch_05@325609/master.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Toonami
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl" group-title="Streams: IPTV",    truTV
