@@ -149,6 +149,8 @@ http://dl5.nightsdl.com/TV.Show/H/Homeland/S05/Homeland%20S05E12%20720p-%5BNight
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Streams: IPTV",[COLOR yellow]Streams: IPTV[/COLOR]
 
+#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    ADULT SWIM 
+http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Cartoon Network 
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    GLOBAL CA
