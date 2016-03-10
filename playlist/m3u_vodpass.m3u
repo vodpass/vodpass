@@ -237,16 +237,4 @@ http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 #EXTINF:-1,[COLOR orange] Woodlawn 2015 test 6pm [/COLOR]
 https://r3---sn-vgqsenls.c.docs.google.com/videoplayback?requiressl=yes&id=0467b02246385e9c&itag=18&source=webdrive&app=explorer&ip=2601:243:c201:6426:c886:c082:21a:b04f&ipbits=32&expire=1457582287&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=B1A7CE0B1815B45FA5E7F251EA40F0E459C5E56D.C9A8CEE41BA3E627468970390A7627598BA6216&key=ck2&mm=30&mn=sn-vgqsenls&ms=nxu&mt=1457567806&mv=m&nh=IgpwZjAxLm9yZDM1Kg0yMDAxOjU1OTo6Mzc5&pl=26&cpn=Yin3o0PdqSQOz9f8&c=WEB&cver=html5
 
-#EXTINF:-1,Food Food
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD139_W_350.sdp/chunklist.m3u8
-#EXTINF:-1,Oscar Movies
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD197_W_350.sdp/chunklist.m3u8
-#EXTINF:-1,Rt Movies
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD258_W_350.sdp/chunklist.m3u8
-#EXTINF:-1,And Tv
-http://192.240.109.130:8010/server24channel2_bitrate4.m3u8 
 
-#EXTINF:-1,Aliens
-http://iptvbox.noip.us:9998/live/atik/atik/637.m3u8
-#EXTINF:-1,MOVIES ACTION
-http://iptvbox.noip.us:9998/live/atik/atik/634.m3u8
