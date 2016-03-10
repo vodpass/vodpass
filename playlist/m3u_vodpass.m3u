@@ -212,8 +212,6 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    Mystery Science Theater 3000
 http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    NOVACINEMA1
-http://38.140.63.250:1935/gr-live/filmnet.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    The zombie channel
 http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
 
@@ -230,7 +228,3 @@ http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 #EXTINF:-1,[COLOR orange] Woodlawn 2015 test 6pm [/COLOR]
 https://r3---sn-vgqsenls.c.docs.google.com/videoplayback?requiressl=yes&id=0467b02246385e9c&itag=18&source=webdrive&app=explorer&ip=2601:243:c201:6426:c886:c082:21a:b04f&ipbits=32&expire=1457582287&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=B1A7CE0B1815B45FA5E7F251EA40F0E459C5E56D.C9A8CEE41BA3E627468970390A7627598BA6216&key=ck2&mm=30&mn=sn-vgqsenls&ms=nxu&mt=1457567806&mv=m&nh=IgpwZjAxLm9yZDM1Kg0yMDAxOjU1OTo6Mzc5&pl=26&cpn=Yin3o0PdqSQOz9f8&c=WEB&cver=html5
 
-#EXTINF:-1,Antena 3
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-b.m3u8
-#EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
