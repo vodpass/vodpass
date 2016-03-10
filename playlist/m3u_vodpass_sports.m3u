@@ -1,4 +1,23 @@
-#EXTM3U tvg-shift=6
+#EXTM3U 
+<channels>
+<channel>
+     <name>[COLOR white][B]LIVE SPORT[/B][/COLOR]</name>
+   <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+    <externallink>link her</externallink>
+</channel>
+   </channels>
+   
+   <channels>
+<channel>SKY POKER
+     <name>[COLOR white][B]MOVIES[/B][/COLOR]</name>
+   <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
+    <externallink>link her</externallink>
+</channel>
+   </channels>
 #EXTINF:-1 tvg-logo="logo1"  group-title="Group 1",[COLOR green]Sports: IPTV [/COLOR]
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Group 1",[COLOR green] GIT HD[/COLOR]
