@@ -231,7 +231,12 @@ http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 https://r3---sn-vgqsenls.c.docs.google.com/videoplayback?requiressl=yes&id=0467b02246385e9c&itag=18&source=webdrive&app=explorer&ip=2601:243:c201:6426:c886:c082:21a:b04f&ipbits=32&expire=1457582287&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=B1A7CE0B1815B45FA5E7F251EA40F0E459C5E56D.C9A8CEE41BA3E627468970390A7627598BA6216&key=ck2&mm=30&mn=sn-vgqsenls&ms=nxu&mt=1457567806&mv=m&nh=IgpwZjAxLm9yZDM1Kg0yMDAxOjU1OTo6Mzc5&pl=26&cpn=Yin3o0PdqSQOz9f8&c=WEB&cver=html5
 
  
-
+#EXTINF:0,[CRO] CINEMAX
+http://xtream-codes.no-ip.org:61250/live/robert/robert/11907.ts
+#EXTINF:0,[CRO] CINEMAX 2
+http://xtream-codes.no-ip.org:61250/live/robert/robert/11908.ts
+#EXTINF:0,[EX-YU] Cinestar TV
+http://xtream-codes.no-ip.org:61250/live/andrew2/andrew2/9458.ts
  
 
 
