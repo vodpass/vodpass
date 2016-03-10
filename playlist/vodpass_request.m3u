@@ -1,14 +1,52 @@
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" type="yt-dl",yt-dl test
-http://link.brightcove.com/services/player/bcpid756015033001?bckey=AQ~~,AAAApYJi_Ck~,GxhXCegT1Dp39ilhXuxMJxasUhVNZiil&bctid=2878862109001
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pVYoNhX.jpg" ,youtube plugin
-plugin://plugin.video.youtube/play/?video_id=YoB8t0B4jx4
-#EXTINF:-1 tvg-logo="Amedia Premium HD.png",rtmp test
-rtmp://flash.oit.duke.edu/vod/_definst_/test/Wildlife2
-#EXTINF:-1 ,rtmp test2
-rtmp://d.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/?b?b*t$
-#EXTINF:-1 ,rtmp test3
-rtmpe://46.246.29.154:1935/live/ playpath=rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10
-#EXTINF:-1 ,rtmp test4
-rtmpe://46.246.124.29:1935/live/spremsp playpath=spremsp swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive4.php?u=spremsp&vw=640&vh=400&domain=www.streamking.info token=#yw%tt#w@kku
-#EXTINF: -1,[COLOR white]Movie 3[/COLOR]
-http://played.to/xutcdh535aok
+#EXTINF:-1, tvg-logo="logo1" group-title="Streams: Requests Only",[COLOR red] streams:Requests Only[/COLOR]
+#EXTINF:-1,[COLOR red]Requests Only[/COLOR]
+
+#EXTINF: -1,Homeland s5e1 (requested)
+http://dl.tehmovies.com/94/series/homeland/s5/Homeland.S05E01.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF: -1,homeland s5e2 (requested)
+http://dl.tehmovies.com/94/series/homeland/s5/Homeland.S05E02.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF: -1,Homeland s5e3 (requested)
+http://dl.tehmovies.com/94/series/homeland/s5/Homeland.S05E03.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF: -1,homeland s5e4 (requested)
+http://dl.tehmovies.com/94/series/homeland/s5/Homeland.Smp4
+04.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF:-1,homeland s5e5 (requested)
+http://dl.tehmovies.com/94/series/homeland/s5/Homeland.S05E05.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF:-1,homeland s5e6 (requested)
+http://dl.tehmovies.com/94/series/homeland/s5/Homeland.S05E06.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF:-1,homeland s5e7 (requested)
+http://dl.tehmovies.com/94/series/homeland/s5/Homeland.S05E07.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF:-1,homeland s5e8 (requested)
+http://dl.tehmovies.com/94/series/homeland/s5/Homeland.S05E08.720p.WEB-DL.Tehmovies.ir.mkv
+#EXTINF:-1,homeland s5e9 (requested)
+http://dl5.nightsdl.com/TV.Show/H/Homeland/S05/Homeland%20S05E09%20720p-%5BNightsdl.Com%5D.mkv
+#EXTINF:-1,homeland s5e10 (requested)
+http://dl5.nightsdl.com/TV.Show/H/Homeland/S05/Homeland%20S05E10%20720p-%5BNightsdl.Com%5D.mkv
+#EXTINF:-1,homeland s5e11 (requested)
+http://dl5.nightsdl.com/TV.Show/H/Homeland/S05/Homeland%20S05E11%20720p-%5BNightsdl.Com%5D.mkv
+#EXTINF:-1,homeland s5e12 (requested)
+http://dl5.nightsdl.com/TV.Show/H/Homeland/S05/Homeland%20S05E12%20720p-%5BNightsdl.Com%5D.mkv
+
+#EXTINF:-1,knight rider s1e5 (2008) (requested)
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E05%20%28ParsFilm%29.mkv
+
+#EXTINF:-1,knight rider s1e6
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E06%20%28ParsFilm%29.mkv
+
+#EXTINF:-1,knight rider s1e7
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E07%20%28ParsFilm%29.mkv
+
+#EXTINF:-1,knight rider s1e8
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E08%20%28ParsFilm%29.mkv
+
+#EXTINF:-1,knight rider s1e9
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E09%20%28ParsFilm%29.mkv
+
+#EXTINF:-1,knight rider s1e10
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E10%20%28ParsFilm%29.mkv
+
+#EXTINF:-1,knight rider s1e11
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E11%20%28ParsFilm%29.mp4
+
+#EXTINF:-1,knight rider s1e12
+http://tv.dl-pars.in/Knight%20Rider/s1/Knight%20Rider%20S01%20E12%20%28ParsFilm%29.mkv
