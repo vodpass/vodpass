@@ -220,8 +220,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Latino: IPTV",[COLOR orange] Latino: IPTV[/COLOR]
 
-#EXTINF:-1,[COLOR orange] Latino: A&E [/COLOR]
-http://www.t12v.com:8000/live/prevot/prevot/779.ts
 
 #EXTINF:-1,[COLOR orange] Latino: Travel Channel [/COLOR]
 http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
