@@ -253,4 +253,5 @@ http://62.210.162.88:80/live/DE125/144109032016/2113.ts
 #EXTINF:-1,DE : TNT Film 
 http://62.210.162.88:80/live/DE125/144109032016/2110.ts
 
-
+#EXTINF:-1, Film Premiere 1 HD 
+http://hd.guardatv.eu:8000/live/vlora12/vlora12/360.ts
