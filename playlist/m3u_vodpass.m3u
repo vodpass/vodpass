@@ -121,7 +121,7 @@ http://dl5.nightsdl.com/TV.Show/iZombie/S02/720p/iZombie%20S02E14%20720p-[Nights
 http://ns358605.ip-91-121-153.eu/Medias/S%C3%A9ries/X-Files/The.X-Files.S10E06.FiNAL.FASTSUB.VOSTFR.720p.HDTV.x264.AAC-GOBO2S.mkv
 
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Streams: Requests Only",[COLOR red] streams:Requests Only[/COLOR]
+#EXTINF:-1, tvg-logo="logo1" group-title="Streams: Requests Only",[COLOR red] streams:Requests Only[/COLOR]
 #EXTINF:-1,[COLOR red]Requests Only[/COLOR]
 
 #EXTINF: -1,Homeland s5e1 (requested)
