@@ -243,5 +243,8 @@ http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 #EXTINF:-1,[COLOR orange] Woodlawn 2015 test2 9.22pm [/COLOR]
 https://r3---sn-vgqsenls.c.docs.google.com/videoplayback?requiressl=yes&id=0467b02246385e9c&itag=18&source=webdrive&app=explorer&ip=2601:243:c201:6426:c886:c082:21a:b04f&ipbits=32&expire=1457598067&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=B9C3081FBD7B3D87D151303E3D76FE0EC5EC62B8.95DEF311A3AB21E2ED75F098F037DB52BC697636&key=ck2&mm=30&mn=sn-vgqsenls&ms=nxu&mt=1457583563&mv=m&nh=IgpwZjAxLm9yZDM1Kg0yMDAxOjU1OTo6Mzc5&pl=26&cpn=0ro9M3KzVcQtCaty&c=WEB&cver=html5
 
-#EXTINF:-1,DE : SKY Cinema*
+#EXTINF:-1,DE : SKY Cinema
 http://62.210.162.88:80/live/DE125/144109032016/2113.ts
+
+#EXTINF:-1,DE : TNT Film 
+http://62.210.162.88:80/live/DE125/144109032016/2110.ts
