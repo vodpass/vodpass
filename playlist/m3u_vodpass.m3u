@@ -254,8 +254,3 @@ http://62.210.162.88:80/live/DE125/144109032016/2113.ts
 http://62.210.162.88:80/live/DE125/144109032016/2110.ts
 
 
-#EXTINF:-1,DE : NOVA
-http://ios.cdn.bg:2010/fls/ntv_2.stream/.m3u8
-
-#EXTINF:-1,BNT World
-http://media2.bnt.bg:1935/live/bntsat/.m3u8
