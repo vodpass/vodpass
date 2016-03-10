@@ -209,7 +209,7 @@ http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Sky Poker [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    UFC [/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
 
 
 
