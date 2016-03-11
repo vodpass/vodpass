@@ -167,6 +167,8 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Movies: IPTV",[COLOR yellow]Movies: IPTV[/COLOR]
 
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    At the drive-in
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    SpongeBob (veetle) 
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Fox (veetle) 
