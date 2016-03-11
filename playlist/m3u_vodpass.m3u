@@ -129,8 +129,6 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/p
 https://goo.gl/Hhdzjz
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Global Halifax
 https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
-#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Heavy Metal 
-http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Huffington Post 
 http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1400.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    RT TV network
@@ -171,7 +169,7 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Movies: IPTV",[COLOR yellow]Movies: IPTV[/COLOR]
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    At the drive-in
+#EXTINF:-2 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    At the drive in
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    SpongeBob (veetle) 
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
