@@ -9,10 +9,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Streams: Kids Movies",[COLOR Lime] streams:Kids Movies[/COLOR]
-
-
-#EXTINF: -1,[COLOR lime]FEATURED MOVIES: For kids only[/COLOR]
+#EXTINF:-1 tvg-logo="logo1" group-title="Kids Movies",[COLOR Lime]Kids Movies[/COLOR]
 
 #EXTINF:-1,Frozen fever
 http://usersmovies.doesntexist.com/kids/Frozen%20Fever%20(2015).avi 
