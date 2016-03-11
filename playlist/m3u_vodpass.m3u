@@ -194,11 +194,4 @@ http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 #EXTINF:-1,[COLOR orange] Latino: BeIN Sport [/COLOR]
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 
-#EXTINF:0,Universal Channel
-http://5.135.139.145:80/Universal_Channel/mono.m3u8
 
-#EXTINF:0, JEI ENGLISH TV
-http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
-
-#EXTINF:0, PLAYY WEST
-http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
