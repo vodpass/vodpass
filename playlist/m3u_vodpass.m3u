@@ -6,8 +6,14 @@
 
 #EXTINF:-1,[COLOR aqua]FRIDAY NIGHT CINEMA[/COLOR][COLOR red]coming soon[/COLOR]
 
-#EXTINF:-1,immortals
-http://178.162.214.232/vod/movies/english/Immortals.2011.mp4
+#EXTINF:-1,The Martian
+http://45.114.180.220/ftp/HDD1/Movie/English/T/The%20Martian%20(2015)720p.mkv
+
+#EXTINF:-1,The Mourning
+http://45.114.180.220/ftp/HDD1/Movie/English/T/The%20Mourning%20(2015).mkv
+
+#EXTINF:-1,The Gunman
+http://45.114.180.220/ftp/HDD1/Movie/English/T/The%20Gunman%20(2015).mkv
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Kids Movies",[COLOR blue]Kids Movies[/COLOR]
 
