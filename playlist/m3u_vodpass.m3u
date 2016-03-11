@@ -189,6 +189,7 @@ http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 #EXTINF:-1,[COLOR orange] Latino: BeIN Sport [/COLOR]
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 
-
+#EXTINF:0,CS Mini
+http://5.135.139.145:80/CS_Mini/mono.m3u8
 
 
