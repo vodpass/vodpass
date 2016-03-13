@@ -124,8 +124,8 @@ http://178.216.250.167/Serial/American%20Crime%20Story/S01/American.Crime.Story.
 #EXTINF: -1,The Walking Dead s6e12 
 http://dl2.film2movie.info/serial/The%20Walking%20Dead/S06/The.Walking.Dead.S06E12.720p.x265.HEVC.Film2Movie_INFO.mkv
 
-#EXTINF: -1,Lucifer s1e7 [COLOR red]link temporarly removed[/COLOR]
-
+#EXTINF:-1,lucifer test
+<http://resolver.www.vodlocker.com/openresolver/?>sid=vodlocker:http://vodlocker.com/u7jx26xib1jk
 
 #EXTINF: -1,Supergirl s1e15
 http://server.7filmia.ir/Data/Serial/Supergirl/Season%201/Supergirl%20S01E15%20480p%20HDTV%20%5bFilmia%5d.mkv
@@ -212,5 +212,4 @@ http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 
 #EXTINF:-1,[COLOR orange] Latino: BeIN Sport [/COLOR]
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
-
 
