@@ -15,8 +15,8 @@ http://www.film4eg.net/momn/Absolutely%20Anything%202015-1.mp4
 #EXTINF:-1,A Christmas horror story
 http://www.film4eg.net/momn/A%20Christmas%20Horror%20Story%202015-1.mp4
 
-#EXTINF:-1,The Mirage 2015
-http://dl5.nightsdl.com/Masih/Film/2015/The.Mirage.2015.720p.Ganool-%5BNightsdl.Com%5D.mkv
+#EXTINF:-1,As good as it gets
+http://178.162.214.232/vod/movies/english/As.Good.As.It.Gets.mkv
 
 #EXTINF:-1,The Perfect Guy
 http://dl5.nightsdl.com/Masih/Film/2015/The.Perfect.Guy.2015.720p.Ganool-%5BNightsdl.Com%5D.mkv
@@ -174,7 +174,8 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    BT SPORT HD [/COLOR]
+http://02e4.vp9.tv/chn/btsu1/v.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    MLS Soccer [/COLOR]
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    EUROSPORT [/COLOR]
