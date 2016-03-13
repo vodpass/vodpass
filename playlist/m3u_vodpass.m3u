@@ -4,7 +4,6 @@
 
 #EXTINF:-1,[COLOR orange]Follow us on twitter @vodpass[/COLOR]
 
-#EXTINF:-1,[COLOR yellow]Found a Bad link? teamvodpass@gmail.com[/COLOR] 
 
 #EXTINF:-1,[COLOR aqua]WEEKEND CINEMA[/COLOR]
 #EXTINF:-1,A walk in the woods [COLOR red]added march 11[/COLOR]
@@ -233,7 +232,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    At the drive in
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 
-#EXTINF:-1,[COLOR yellow]Found a bad link? teamvodpass@gmail.com[/COLOR]
+
 #EXTINF:-1 tvg-logo="logo1" group-title="Latino: IPTV",[COLOR orange] Latino: IPTV[/COLOR]
 
 #EXTINF:-1,[COLOR orange] Latino: Travel Channel [/COLOR]
