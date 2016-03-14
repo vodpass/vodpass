@@ -218,7 +218,8 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Movies: IPTV",[COLOR yellow]Movies: IPTV[/COLOR]
 
-
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",  vettle live m-o-v-i-e-s
+http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjEwMi4xNjMuMjAxOjgwL2Zsdi80ZTUzMGZmZmQwNTZmL3Rlc3RhdDEyMw==
 
 
 
