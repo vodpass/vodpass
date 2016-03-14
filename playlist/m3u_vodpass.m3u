@@ -162,8 +162,10 @@ http://server.7filmia.ir/Data/Serial/The%20Flash/S02/The%20Flash%20S02E15%20480p
 #EXTINF:-1,izombie s2e14
 http://dl5.nightsdl.com/TV.Show/iZombie/S02/720p/iZombie%20S02E14%20720p-[Nightsdl.com].mkv 
 
-
 #EXTINF:-1,[COLOR yellow]Found a bad link? teamvodpass@gmail.com[/COLOR]
+
+
+
 #EXTINF:-1 tvg-logo="logo1" group-title="Streams: IPTV",[COLOR yellow]Streams: IPTV[/COLOR]
 
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Abc News 
@@ -212,16 +214,10 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 
 
-
-
-#EXTINF:-1,[COLOR yellow]Found a bad link? teamvodpass@gmail.com[/COLOR]
 #EXTINF:-1 tvg-logo="logo1" group-title="Movies: IPTV",[COLOR yellow]Movies: IPTV[/COLOR]
-
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    SpongeBob (veetle) 
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
-
-
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Fox (veetle) 
 http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    Mystery Science Theater 3000
@@ -232,11 +228,11 @@ http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="logo1" group-title="Latino: IPTV",[COLOR orange] Latino: IPTV[/COLOR]
 
 #EXTINF:-1,[COLOR orange] Latino: Travel Channel [/COLOR]
 http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-
 #EXTINF:-1,[COLOR orange] Latino: BeIN Sport [/COLOR]
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 
