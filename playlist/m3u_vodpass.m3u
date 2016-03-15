@@ -183,6 +183,8 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Cartoon Network 
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    CW network 
+http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe3644c4beb21b0951c1236634ebff0e57655962a688d4f7741f84b470715a7d60818fd88f96c91037d2ee942b91e8b3af141d04bdbeda4cfaf4ecc905f2644bfb3c055737e642490db4dcc6849bdd7981ddd3f532672d523459f85d8808caad02129427a49cc5c57df31d673ea0e4f7fff153789a475ec583fb2384934fdcb7e999d02989fbd0369bfb7785153e434717
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    GLOBAL CA
 https://goo.gl/Hhdzjz
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Global Halifax
