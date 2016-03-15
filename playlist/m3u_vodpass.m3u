@@ -224,7 +224,8 @@ http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Sky Poker [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
-
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Live Football [/COLOR]
+http://live-823.gv2.edge.filmon.com/live/374.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec4d325d9cdf61b4fa2125d7299681967175df5bc6c2697fbeedefa9cba22b0be0ed941dcc71a86d0ad247792c620d9d3a62ea19c917f598fc56db7dc4d63c569a5b5b50d99f467b03dcf9c867990134491f2fccea9da3031b28e9e49126b02451736e631501b37672cba7f99b78439e6d9f95db3796afb8000ba4caf8ba91b60b61f48233cf09a1cdf4013a103068f40
 
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Movies: IPTV",[COLOR yellow]Movies: IPTV[/COLOR]
