@@ -209,8 +209,11 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 #EXTINF:-1 tvg-logo="logo1" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
 
 
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    BT SPORT HD [/COLOR]
 http://02e4.vp9.tv/chn/btsu1/v.m3u8
+
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    MLS Soccer [/COLOR]
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    EUROSPORT [/COLOR]
@@ -250,7 +253,5 @@ http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 
 
-#EXTINF:-1, Quest
-http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbec5d9f4675fab5620dbbc9ef958096abb14fa42bf993235002fe324e5fabdb5fe3a56796ce2ddbf8dd7f368339c6216357c23720cc1b8babb9b6743da70c1d58817920d0744b2d54810934377cc48edc4baa0cafad7aa503a12fecda9c19a6135ab2724fe96aac8698eee0e1d94f4b03bad023a0b9f58e6ca0c9658e0554fb04162e45626b1745604d8d1221da6e2f5a2
 
 
