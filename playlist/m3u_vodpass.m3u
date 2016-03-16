@@ -234,7 +234,7 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    QVC
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Quest
-http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe3644c4beb21b0951c1236634ebff0e57655962a688d4f7741f84b470715a7d60818fd88f96c91037d2ee942b91e8b3af141d04bdbeda4cfaf4ecc905f2644bfb3c055737e642490db4dcc6849bdd7981ddd3f532672d523459f85d8808caad02129427a49cc5c57df31d673ea0e4f7fff153789a475ec583fb2384934fdcb7e999d02989fbd0369bfb7785153e434717
+http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1ade3b74470e33336e54a2bfc9817896ba49734b23ef324cce16f7ca1e2a3d92b0b8b6dcbedf55fc1a67b1b761cf1c44d836e3aec43baa69c7d5cc4f02ca3b11fea82decd8a0e7eb1f45f213aa9e1a52be1b4273c5c1a908306512f19e3632ccf2988b4ac46746cc9b04878f3b90cca2b50936674ae853730a7aa7e35a8c3a99484faa5920a671f7a9fb71f913dd852b
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
 
