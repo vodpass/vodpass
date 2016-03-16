@@ -250,7 +250,7 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Fox Soccer Plus [/COLOR]
 http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    discover fight [/COLOR]
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   fight SPORTS [/COLOR]
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Golf Channel [/COLOR]
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
