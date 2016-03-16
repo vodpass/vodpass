@@ -213,7 +213,7 @@ http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe364
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    BT SPORT HD [/COLOR]
 http://02e4.vp9.tv/chn/btsu1/v.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    fox sports [/COLOR
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    fox sports [/COLOR]
 http://ftve3200-i.akamaihd.net/hls/live/217140/room308/4028k/prog.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    MLS Soccer [/COLOR]
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
