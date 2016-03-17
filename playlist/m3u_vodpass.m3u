@@ -106,7 +106,13 @@ http://cp.dmbshare.net:8000/movie/francesco/francesco/4067.mkv
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Featured Movies",[COLOR blue] Featured Movies[/COLOR]
 
-#EXTINF:-1,Caprive 2015
+#EXTINF:-1,Adult beginners 2014
+http://dl.avadl.com/New2/Film/Adult%20Beginners%20%282014%29%20720p%20BrRip_AvaDL.com.mp4
+
+#EXTINF:-1,Aloha 2015
+http://dl.avadl.com/New2/Film/Aloha%20%282015%29%20BrRip%20720p_AVADL.CoM.mp4
+
+#EXTINF:-1,Captive 2015
 http://dl2.parsfilm.org/bia2/Movies/Archive/2015/Dey94/Captive%202015%20DVDRip%20%28Bia2Movies%29.mkv
 
 #EXTINF:-1,Amnesia 2015
