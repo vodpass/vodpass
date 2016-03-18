@@ -93,8 +93,6 @@ http://sv.dl-pars.in/Ali/All.Creatures.Big.and.Small.2015.720p.Ganool%28parsfilm
 #EXTINF:-1 tvg-logo="logo1" group-title="Latest Movies",[COLOR blue]Latest Movies[/COLOR]
 
 
-#EXTINF:-1,2016 HOT BOT 2016
-http://vid.ag/2t4w4t7sc5v5epwppo3sy26cj2coetnucxptl5vx6rwnsmq5lqy3h35wfska.m3u8
 
 
 #EXTINF:-1,Batman Bad Blood 2016
@@ -312,3 +310,6 @@ http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 
 #EXTINF:-1,Weed Maps  [COLOR orange] request [/COLOR]
 http://live-1112.la2.edge.filmon.com/live/3782.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe935aaf14ab09d4cb46fcb24f2fc1ad8aa9f72259b07eaf442ddff9107cd3e9923d946afae850cce6851888eaa5fddcc8134f2aa1f593892d10cbbf3a89e2060144aeab1d04e0a31088723581706ffdfbdc3733ddd48b5f8862f78820bb60e787601a48f465edac4f5fcfcf55a3f5a28dfee04a4a94e0c661c7029ad3a91890af5204e9a132017774be6e7da472859c3d
+
+#EXTINF:-1,vee test  [COLOR orange] request [/COLOR]
+http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjEwMi4xNjIuMjQxOjgwL2Zsdi81NTQxZmFmMWNkMDM1L3Rlc3RhdDEyMw==
