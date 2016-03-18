@@ -240,10 +240,12 @@ http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    WGN (CW)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    NASA TV HD 
+
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://www.crizic.com/wp-content/uploads/2015/01/NASA_logo-300x248.png" group-title="Streams: IPTV",    NASA TV HD 
 http://goo.gl/9eu0T6
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    NASA Space Station Views
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://www.iptvlinksss.com/wp-content/uploads/2015/04/nic_print3600x2993ppi.png" group-title="Streams: IPTV",    NASA Space Station Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    QVC
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Quest
