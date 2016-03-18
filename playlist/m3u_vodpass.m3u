@@ -238,7 +238,7 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl" group-title="Streams: IPTV",    truTV
 http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    WGN (CW)
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c0/WGN_%28Screenshot_2015-11-25-14-27-32%29.png/revision/latest?cb=20151126121802" group-title="Streams: IPTV",    WGN (CW)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://www.crizic.com/wp-content/uploads/2015/01/NASA_logo-300x248.png" group-title="Streams: IPTV",    NASA TV HD 
