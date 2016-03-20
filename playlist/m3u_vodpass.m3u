@@ -270,7 +270,10 @@ http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    SpongeBob (veetle) 
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
-
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    BeIN movies 1HD
+http://185.56.30.123:8082/TV4016
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    BeIN movies 2HD
+http://185.56.30.123:8082/TV4017
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Latino: IPTV",[COLOR orange] Latino: IPTV[/COLOR]
 
@@ -282,4 +285,7 @@ http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 
 
 
-
+#EXTINF:0,BeIN movies 1HD
+http://185.56.30.123:8082/TV4016
+#EXTINF:0,BeIN movies 2HD
+http://185.56.30.123:8082/TV4017
