@@ -17,11 +17,10 @@
 #EXTINF:-1,awaiting for a user request 
 
 
-#EXTINF:-1,awaiting for a user request 
 
 
 
-
+?bandwidth=956&shift;=0&playlistlength;=25
 
 #EXTINF:-1,[COLOR yellow]Found a bad link? teamvodpass@gmail.com[/COLOR] 
 
@@ -287,9 +286,11 @@ http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 #EXTINF:-1,[COLOR orange] Latino: Travel Channel [/COLOR]
 http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+
 #EXTINF:-1,[COLOR orange] Latino: BeIN Sport [/COLOR]
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 
-
+#EXTINF:-1,BeIN Sport (fr)
+http://217.23.15.222/bein_sports1_fr.m3u8
 
 #EXTINF:-1 t
