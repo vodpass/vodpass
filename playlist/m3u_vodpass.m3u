@@ -239,7 +239,7 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Quest
-http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe8a0741560fa72683e72936eac7a402dca5c634cf7972a7b7fcfed0eca21b1ef18389637401bab2d2d99f2d1383674af288abc4b9b35c826327f361ac0cc886408094e27efdc133ddb30a3c39d96cb05badaa21dbb31172ab766a22c97dab0348b8a642ea61570a67f1e647a7194545534b06edb9bdaf104528b847e80fe4c08c76fcbca97af74b880539f02cd71d8728
+http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1ce4cbf162c25d5135f8bc58a2859b15c014d1638b71de2717c0619cc362972e762fd71b19923b305d3aa86fc171c567c0f3df51dc3b145a045b9bc82ce3e268c566bb5a976594aa6b4029711c4a4bbdcac129b41660695e2e527e2f0146173d55fa9b495147116fbf078713fa993067a0dfc47d1db7f1bae02e2b5dda728f3460f71de485a58bd390297da0d13d173d
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    The Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
