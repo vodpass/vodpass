@@ -204,8 +204,8 @@ http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Cartoon Network 
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Discovery Channel 
-http://167.114.102.27/live/7MuDEtX1i7sC3MD0-zsipw/1458674101/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",  [COLOR red]  Discovery Channel [/COLOR]
+
 
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    GLOBAL CA
