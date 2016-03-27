@@ -26,8 +26,8 @@
 
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Kids Movies",[COLOR lime]Kids Movies[/COLOR]
-
-
+#EXTINF:-1,HOP 
+http://217.219.143.104/9101/Animation/hop-2011/Hop%202011-%20DVDRip.mkv
 
 #EXTINF:-1,Starwars Episode 3
 http://dl.avadl.com/New2/Film/StarWars/Star%20Wars%20Episode%20III%20%282005%29%20BrRip%20720p_AVADL.CoM.mkv
