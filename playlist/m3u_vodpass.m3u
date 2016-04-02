@@ -26,23 +26,10 @@
 
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Kids Movies",[COLOR lime]Kids Movies[/COLOR]
+
 #EXTINF:-1,HOP 
 http://217.219.143.104/9101/Animation/hop-2011/Hop%202011-%20DVDRip.mkv
 
-#EXTINF:-1,Starwars Episode 3
-http://dl.avadl.com/New2/Film/StarWars/Star%20Wars%20Episode%20III%20%282005%29%20BrRip%20720p_AVADL.CoM.mkv
-
-#EXTINF:-1,Hotel transylvania 2
-http://www.film4eg.net/momn/Hotel%20Transylvania%202%202015-1.mp4
-
-#EXTINF:-1,Finding Nemo
-http://178.162.214.232/vod/movies/english/FindingNemo.mp4
-
-#EXTINF:-1,Guardians of the galaxy 2014
-http://dl.tehmovies.com/sr1/aban/Guardians.Of.The.Galaxy.2014.720p.BluRay.TehMovieS.Com.mkv
-
-#EXTINF:-1,Beauty and the beast 2014
-http://dl.tehmovies.com/sr1/aban/Beauty.And.The.Beast.2014.720p.BR%20TehMovieS.Com.mkv
 
 #EXTINF:-1,Dolphin tale 2
 http://dl.tehmovies.com/sr1/aban/Dolphin.Tale.2.2014.720p.BluRay%20TehMovieS.Com.mkv
@@ -60,8 +47,6 @@ http://217.219.143.108/1327/Ice%20Age%204%20%282012%29/Ice%20Age%204%20Continent
 #EXTINF: -1,Chipmunks roadtrip
 http://www.film4eg.net/momn/Alvin%20And%20The%20Chipmunks%20The%20Road%20Chip%202015-1.mp4
 
-#EXTINF: -1,All creatures big and small
-http://sv.dl-pars.in/Ali/All.Creatures.Big.and.Small.2015.720p.Ganool%28parsfilm%29.mkv
 
 #EXTINF:-1,[COLOR yellow]Found a bad link? teamvodpass@gmail.com[/COLOR] 
 
