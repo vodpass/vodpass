@@ -271,8 +271,6 @@ http://iptv.ndasat.com:88/live/new/new/1036.ts
 http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    Mystery Science Theater 3000
 http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    The zombie channel
-http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    At the drive in
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    SpongeBob (veetle) 
