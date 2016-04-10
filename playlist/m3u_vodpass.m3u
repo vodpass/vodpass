@@ -254,8 +254,8 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   Dubai Racing  [/COLOR]
 http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
-
-
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    idman Sports [/COLOR]
+http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    MLS Soccer [/COLOR]
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    EUROSPORT [/COLOR]
