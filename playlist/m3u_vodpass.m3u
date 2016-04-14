@@ -32,7 +32,11 @@ http://www.film4eg.net/momn/Alvin%20And%20The%20Chipmunks%20The%20Road%20Chip%20
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Latest Movies",[COLOR blue]Latest Movies[/COLOR]
 
-#EXTINF:-1,
+#EXTINF:-1, Countdown 2016
+http://www.film4eg.net/momn/Countdown%202016-1.mp4
+
+#EXTINF:-1,Sociopath 2016
+http://45.114.180.220/ftp/HDD1/Movie/English/S/Sociopathia%202015%20720p.mkv
 
 #EXTINF:-1,The veil 2016
 http://media.bia4music.com/movie/2016/1/The%20Veil.2016.720p.WEB-DL.mkv
