@@ -228,7 +228,7 @@ http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbecbb
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    The Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
+#EXTINF:-1 tvg-logo="https://media.giphy.com/media/kaULHi0JweDyU/giphy.gif" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
 
 
 
