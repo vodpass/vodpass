@@ -279,3 +279,7 @@ http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 
 #EXTINF:-1,[COLOR orange]UK TRUE MOVIES 2 [/COLOR]
 http://tabertor.ddns.net:8000/live/adnan/adnan/548.ts
+#EXTINF:-1,UK DISCOVERY TURBO
+http://tabertor.ddns.net:8000/live/adnan/adnan/562.ts
+#EXTINF:-1,UK DISCOVERY ID
+http://tabertor.ddns.net:8000/live/adnan/adnan/563.ts
