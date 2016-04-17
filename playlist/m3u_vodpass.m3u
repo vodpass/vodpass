@@ -277,4 +277,5 @@ http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 
 
 
-
+#EXTINF:-1,[COLOR orange]  Channel test [/COLOR]
+http://pciptv.blogdns.com:34505/live/ming/ming/1371.ts
