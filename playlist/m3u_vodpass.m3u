@@ -188,8 +188,7 @@ http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Cartoon Network 
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",  [COLOR green]  Discovery Channel [/COLOR]
-rtmp://live-1192.gv2.edge.filmon.com/live/?id=0ad5aac39bb13fbe354039b5d9badf8380efbb95633c2161904c7a2887629a5d8917b396e8765ca88d540b08b686532bfccda5fae035aba74d9d93a524b3aabec8a7e73809432b3f48e0fd287c11f6580bcb761bfbda60c7760a2807f029ad519803f6d262a3818be4c9769774f42633c0059e6196ce3eb5a920023c5ca0fa186d1af0f9832e6ebcb66d531105b89f33179236f8617a8c52/2798.low.stream playpath=2798.low.stream app=live/?id=0ad5aac39bb13fbe354039b5d9badf8380efbb95633c2161904c7a2887629a5d8917b396e8765ca88d540b08b686532bfccda5fae035aba74d9d93a524b3aabec8a7e73809432b3f48e0fd287c11f6580bcb761bfbda60c7760a2807f029ad519803f6d262a3818be4c9769774f42633c0059e6196ce3eb5a920023c5ca0fa186d1af0f9832e6ebcb66d531105b89f33179236f8617a8c52 swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=746c1fee tcUrl=rtmp://live-1192.gv2.edge.filmon.com/live/?id=0ad5aac39bb13fbe354039b5d9badf8380efbb95633c2161904c7a2887629a5d8917b396e8765ca88d540b08b686532bfccda5fae035aba74d9d93
+
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    GLOBAL CA
 https://goo.gl/Hhdzjz
