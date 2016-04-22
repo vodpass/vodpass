@@ -190,8 +190,7 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Toonami
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.apk20.com/image/icon-27869" type="yt-dl" group-title="Streams: IPTV",    truTV
-http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c0/WGN_%28Screenshot_2015-11-25-14-27-32%29.png/revision/latest?cb=20151126121802" group-title="Streams: IPTV",    WGN (CW)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 
@@ -203,8 +202,7 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    QVC
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Quest
-http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbecbb7a99c9eb537fc89eb77fd81e7f05ab50c1b917630b91ff9ca6c6161df00e69d6fbc48f4f85b8450816c146cd562fc8613cdc1efd484d3d5f7bd9d7772e474adbb89fcfc8f280232dbc16953d30b51a184304ff0cc182ec1a836f04ede3eaadd7a74d291519546ec44f4d92a537969ad65b3db549f434bf80d9e107bd104a67ff605b82122839f078e514892fa577a
+
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    The Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
