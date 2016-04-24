@@ -199,21 +199,19 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Fox (veetle) 
+#EXTINF:-1,Fox 
 http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    Mystery Science Theater 3000
 http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    At the drive in
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
-#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    SpongeBob (veetle) 
-http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
 
 
 
-#EXTINF:-0,
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+
+
 
 
 
