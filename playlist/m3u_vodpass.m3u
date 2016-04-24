@@ -10,10 +10,10 @@
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Kids Movies",[COLOR lime]Kids Movies[/COLOR]
 
-#EXTINF:-1,,[COLOR lime]Jungle Book[/COLOR]
-http://www.floridadomain.com/movies/The%20Jungle%20Book%202016.mkv[/COLOR]
+#EXTINF:-1,[COLOR lime]Jungle Book[/COLOR]
+http://www.floridadomain.com/movies/The%20Jungle%20Book%202016.mkv
 
-#EXTINF:-1,,[COLOR lime]Howard the Duck
+#EXTINF:-1,[COLOR lime]Howard the Duck[/COLOR]
 http://188.240.220.182/dzjhog3pkaqwws4phvbdw36r63jmry3d633eb2jl2slezcz6t4vgmm754zta/video.mp4
 
 #EXTINF:-1,Peewees big holiday 2016
