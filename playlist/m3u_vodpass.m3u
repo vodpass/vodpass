@@ -29,8 +29,7 @@ http://sv2.dl-pars.in/bia2/Movies/Archive/2016/Bahman94/Riddle%20Room%202016%20H
 #EXTINF:-1,The 5th wave 2016
 http://www.film4eg.net/momn/The%205th%20Wave%202016-1.mp4
 
-#EXTINF:-1,Batman Bad Blood 2016
-http://cp.dmbshare.net:8000/movie/francesco/francesco/4057.mkv
+
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Featured Movies",[COLOR blue] Featured Movies[/COLOR]
 
@@ -39,9 +38,6 @@ http://cp.dmbshare.net:8000/movie/francesco/francesco/4057.mkv
 #EXTINF:-1,Captive 2015
 http://dl2.parsfilm.org/bia2/Movies/Archive/2015/Dey94/Captive%202015%20DVDRip%20%28Bia2Movies%29.mkv
 
-
-#EXTINF:-1,Sisters(Unrated)
-http://hmd.naturalbd.com:81/hms/Sisters.2015.UNRATED.720p.BluRay.H264.AAC-RARBG.mp4
 
 #EXTINF:-1,Stonewall
 http://dl2.parsfilm.org/bia2/Movies/Archive/2015/Dey94/Stonewall%202015%20DVDRip%20%28Bia2Movies%29.mkv
@@ -95,10 +91,8 @@ http://www.carabisnis.in/film/RIP%2060/Week%203%20Turn%20and%20Burn.avi
 http://www.carabisnis.in/film/RIP%2060/Week%204%20Recharge.avi
 
 #EXTINF:-1,[COLOR yellow]Found a bad link? teamvodpass@gmail.com[/COLOR]
-#EXTINF:-1 tvg-logo="logo1" group-title="Current Tv Episodes",[COLOR blue]Current Tv Episodes[/COLOR]
+#EXTINF:-1 tvg-logo="logo1" group-title="Current Tv Episodes",[COLOR blue] Tv Episodes[/COLOR]
 
-#EXTINF:-1,Shameless s6e12
-http://dl4.uploadplus.net/TV-Series/Shameless/S06/720p/Shameless.US.S06E12.720p.Baranmovie.mkv
 
 #EXTINF:-1,Greys anatomy s12e15
 http://dl.tehmovies.com/94/series/greys.anatomy/s12/Greys.Anatomy.S12E15.480p.Tehmovies.net.mkv
