@@ -11,25 +11,8 @@
 #EXTINF:-1 tvg-logo="logo1" group-title="Kids Movies",[COLOR lime]Kids Movies[/COLOR]
 
 
-#EXTINF:-1,Lego dc comics 2016
-http://dl5.nightsdl.com/Masih/Film/2016/LEGO.DC.Comics.Super.Heroes.Justice.League.Cosmic.Clash.2016.DVDrip.Ganool-[Nightsdl.com].mp4
 
 
-
-#EXTINF:-1 tvg-logo="logo1" group-title="Latest Movies",[COLOR blue]Many changes to come to vodpass[/COLOR]
-
-#EXTINF:-1,Smothered 2016
-http://91.207.102.133:8777/p6cebjes3o4pcnokajocxnwi62xcosenwes4ii5ftj6q3m6ic5hwdlrw4i/v.mp4
-
-#EXTINF:-1,Nina 2016
-http://91.195.99.75:8777/72cem2uv2o4pcnokal3sx2ou4q7x2p
-
-#EXTINF:-1,The boss 2016
-http://74.117.181.148:8777/v6cehj7s2o4pcnokal3cx7gk6blxjullz7nl2tlrob4nsirbbcybruu2zm/v.mp4
-
-
-#EXTINF:-1,Risen 2016
-http://188.213.242.227/nruqjocm7a2qedz7nj4r7ajga4s3c3toa76ysppcxqfq5spdfbzvbw5c6uvq/v.mp4
 
 #EXTINF:-1,Peewees big holiday 2016
 http://dl5.nightsdl.com/Masih/Film/2016/Pee-Wees.Big.Holiday.2016.720p.WEB-DL.nItRo-[Nightsdl.com].mkv
@@ -120,8 +103,7 @@ http://dl4.uploadplus.net/TV-Series/Shameless/S06/720p/Shameless.US.S06E12.720p.
 #EXTINF:-1,Greys anatomy s12e15
 http://dl.tehmovies.com/94/series/greys.anatomy/s12/Greys.Anatomy.S12E15.480p.Tehmovies.net.mkv
 
-#EXTINF:-1,Damien s1e3 
-http://91.207.102.134:8777/mocebwqn3k4pcnokajdsx7u45jzq3cjt5g57o42bjgbz66woqfsdyyuqca/v.mp4
+
 
 #EXTINF:+1,Quantico s1e16
 http://server.7filmia.ir/Data/Serial/Quantico/Season%201/Quantico%20S01E16%20480p%20HDTV%20%5bFilmia%5d.mkv
@@ -204,8 +186,7 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   Dubai Racing  [/COLOR]
 http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    idman Sports [/COLOR]
-http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    MLS Soccer [/COLOR]
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    EUROSPORT [/COLOR]
@@ -230,14 +211,14 @@ http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    At the drive in
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    SpongeBob (veetle) 
+#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    SpongeBob (veetle) 
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Latino: IPTV",[COLOR orange] Latino: IPTV[/COLOR]
 
 
-#EXTINF:-1,[COLOR orange] Latino: Travel Channel [/COLOR]
+
+#EXTINF:-0,
 http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
 
 
