@@ -20,8 +20,7 @@ http://www.floridadomain.com/movies/The%20Jungle%20Book%202016.mkv
 #EXTINF:-1,Zootopia
 http://www.floridadomain.com/movies/Zootopia%202016.mkv
 
-#EXTINF:-1,Peewees big holiday 2016
-http://dl5.nightsdl.com/Masih/Film/2016/Pee-Wees.Big.Holiday.2016.720p.WEB-DL.nItRo-[Nightsdl.com].mkv
+
 
 
 
@@ -68,6 +67,7 @@ http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1400.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    RT TV network
 http://rt-a.akamaihd.net/ch_05@325609/master.m3u8
 
@@ -90,6 +90,7 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 
 
 
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    The Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
@@ -105,12 +106,10 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   Dubai Racing  [/COLOR]
 http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    MLS Soccer [/COLOR]
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    EUROSPORT [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Fox Soccer Plus [/COLOR]
-http://live-prod.fs.anvato.net/server/play/fspctg/master.m3u8
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   fight SPORTS [/COLOR]
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Golf Channel [/COLOR]
