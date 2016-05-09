@@ -8,22 +8,10 @@
 #EXTINF:-1,[COLOR yellow]contact us at teamvodpass@gmail.com[/COLOR] 
 
 
- 
+ #EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]Movies[/COLOR]
 
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]Movies[/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]Found a bad link? teamvodpass@gmail.com[/COLOR]
 #EXTINF:-1 tvg-logo="logo1" group-title="Shows",[COLOR blue]Shows[/COLOR]
 
 
@@ -50,10 +38,9 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
+#EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]Movies[/COLOR]
 
-
-#EXTINF:-1 tvg-logo="https://media.giphy.com/media/kaULHi0JweDyU/giphy.gif" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
-
+ #EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]Sports:[/COLOR]
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    FS1 [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
