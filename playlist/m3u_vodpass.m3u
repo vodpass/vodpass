@@ -31,13 +31,11 @@
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Streams: IPTV",[COLOR yellow]Streams: IPTV[/COLOR]
 
-#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Abc News 
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    ADULT SWIM 
-http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8
+#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="" group-title="Streams: IPTV",nat.geo
+http://vs7.cdn.ott.otautv.kz:80/dtv/id106_KTR_SG--NationalGeographic/03/plst.m3u8
 
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Toonami
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",Toonami
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c0/WGN_%28Screenshot_2015-11-25-14-27-32%29.png/revision/latest?cb=20151126121802" group-title="Streams: IPTV",    WGN (CW)
