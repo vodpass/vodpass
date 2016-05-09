@@ -35,26 +35,7 @@
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    ADULT SWIM 
 http://adultswim-lh.akamaihd.net/i/timanderic_1@318521/index_ultra_av-p.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Cartoon Network 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    GLOBAL CA
-https://goo.gl/Hhdzjz
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Global Halifax
-https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
-#EXTINF:-0 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Huffington Post 
-http://hpsn-i.akamaihd.net/hls/live/207736/hplla/1400.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    RT TV network
-http://rt-a.akamaihd.net/ch_05@325609/master.m3u8
-
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/MBC4-Logo-MBC-Group.jpg" group-title="Streams: IPTV",    MBC 4 (US) (English)
-http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    Toonami
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
@@ -62,13 +43,7 @@ http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c0/WGN_%28Screenshot_2015-11-25-14-27-32%29.png/revision/latest?cb=20151126121802" group-title="Streams: IPTV",    WGN (CW)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://www.crizic.com/wp-content/uploads/2015/01/NASA_logo-300x248.png" group-title="Streams: IPTV",    NASA TV HD 
-http://goo.gl/9eu0T6
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="http://www.iptvlinksss.com/wp-content/uploads/2015/04/nic_print3600x2993ppi.png" group-title="Streams: IPTV",    NASA Space Station Views
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    QVC
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
 
 
 
@@ -80,8 +55,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    BT SPORT HD [/COLOR]
-http://02e4.vp9.tv/chn/btsu1/v.m3u8
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    FS1 [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 
@@ -89,15 +63,11 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
 
 
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    EUROSPORT [/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   fight SPORTS [/COLOR]
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Golf Channel [/COLOR]
-http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Sky Poker [/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Movies: IPTV",[COLOR yellow]Movies: IPTV[/COLOR]
