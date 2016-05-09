@@ -49,19 +49,14 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    The Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://media.giphy.com/media/kaULHi0JweDyU/giphy.gif" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
-
-
 
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    FS1 [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
-
-#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   Dubai Racing  [/COLOR]
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]   fight SPORTS [/COLOR]
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
@@ -72,10 +67,10 @@ http://118.97.183.222:1935/discover/fight/playlist.m3u8
 
 
 
-#EXTINF:-1,Fox 
-http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    Mystery Science Theater 3000
 http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Movies: IPTV",    At the drive in
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 
