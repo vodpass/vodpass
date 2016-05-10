@@ -69,7 +69,7 @@ http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]MUSIC:[/COLOR]
  
 #EXTINF:-1,Vevo2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
