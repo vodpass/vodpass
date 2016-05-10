@@ -7,6 +7,9 @@
 #EXTINF:-1,[COLOR white]Follow us on twitter @vodpass[/COLOR]
 #EXTINF:-1,[COLOR yellow]contact us at teamvodpass@gmail.com[/COLOR] 
 
+
+#EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]Movies[/COLOR]
+
 #EXTINF:-1,The haunting of Alice D
 http://185.56.30.240:182/d/siulbwksgii5uaadhi5az7kvgxp6zocsqej6tcs4mczbpdgm6psvyy6p/video.avi
 
@@ -14,14 +17,11 @@ http://185.56.30.240:182/d/siulbwksgii5uaadhi5az7kvgxp6zocsqej6tcs4mczbpdgm6psvy
 http://185.56.30.109:182/d/seue7wksgii5uaadhi5b7liqfpct3plbshlcskccquq2a2k2mbv2uxr6/video.avi
 
 
- #EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]Movies[/COLOR]
+ 
 
 
 
-#EXTINF:-1 tvg-logo="logo1" group-title="Shows",[COLOR blue]Shows[/COLOR]
-
-
-
+#EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]IPTV:[/COLOR]
 
 
 
@@ -36,15 +36,12 @@ http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Streams: IPTV",    The Weather Channel HD
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]SPORTS:[/COLOR]
 
 
 
@@ -56,7 +53,7 @@ http://118.97.183.222:1935/discover/fight/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="logo1" group-title="Movies",[COLOR blue]Movies 24/7[/COLOR]
 
 
 
